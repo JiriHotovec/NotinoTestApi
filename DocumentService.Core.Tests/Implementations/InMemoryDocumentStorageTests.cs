@@ -18,7 +18,6 @@ public class InMemoryDocumentStorageTests
 
         var actual = await repo.GetAsync(documentId);
 
-        actual.Should().NotBeNull();
         actual.Should().BeEquivalentTo(expected);
     }
 }
