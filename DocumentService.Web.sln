@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentService.Web", "DocumentService.Web\DocumentService.Web.csproj", "{D50E8D88-7E1A-4455-B292-8AF1124ECBBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentService.Core", "DocumentService.Core\DocumentService.Core.csproj", "{A8980D00-FA66-4AA0-8D04-9C247B3FC55A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentService.Core.Tests", "DocumentService.Core.Tests\DocumentService.Core.Tests.csproj", "{1BB514EA-90E8-402C-AE20-059F8BE437E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D50E8D88-7E1A-4455-B292-8AF1124ECBBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D50E8D88-7E1A-4455-B292-8AF1124ECBBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D50E8D88-7E1A-4455-B292-8AF1124ECBBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D50E8D88-7E1A-4455-B292-8AF1124ECBBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8980D00-FA66-4AA0-8D04-9C247B3FC55A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8980D00-FA66-4AA0-8D04-9C247B3FC55A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8980D00-FA66-4AA0-8D04-9C247B3FC55A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8980D00-FA66-4AA0-8D04-9C247B3FC55A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BB514EA-90E8-402C-AE20-059F8BE437E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BB514EA-90E8-402C-AE20-059F8BE437E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BB514EA-90E8-402C-AE20-059F8BE437E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BB514EA-90E8-402C-AE20-059F8BE437E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
